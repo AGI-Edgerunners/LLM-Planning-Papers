@@ -44,8 +44,13 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 
    *Vishal Pallagani, Bharath Muppasani, K. Murugesan, F. Rossi, Biplav Srivastava, L. Horesh, F. Fabiano, Andrea Loreggia.* [[abs](https://arxiv.org/abs/2305.16151)], Preprint. 2023.5
 
+1. **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**
 
+   *Vishal Pallagani, Bharath Muppasani, K. Murugesan, F. Rossi, Biplav Srivastava, L. Horesh, F. Fabiano, Andrea Loreggia.* [[abs](https://arxiv.org/abs/2305.14909)], [[code](https://github.com/GuanSuns/LLMs-World-Models-for-Planning)], Preprint. 2023.5
 
+1. **AdaPlanner: Adaptive Planning from Feedback with Language Models**
+
+   *Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang.* [[abs](https://arxiv.org/abs/2305.16653)], [[code](https://github.com/haotiansun14/AdaPlanner)], Preprint. 2023.5
 
 
 
