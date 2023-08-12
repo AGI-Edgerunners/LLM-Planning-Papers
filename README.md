@@ -14,15 +14,35 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
-   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)], ICML. 2022.3
+   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)], ICML. 2022
 
-1. **On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**
+1. **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change**
+
+   *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2206.10498)], Preprint. 2022.6
+
+1. **On Grounded Planning for Embodied Tasks with Language Models**
+
+   *Bill Yuchen Lin, Chengsong Huang, Qian Liu, Wenda Gu, Sam Sommerer, Xiang Ren.* [[abs](https://arxiv.org/abs/2209.00465)], [[code](https://github.com/INK-USC/G-PlanET)], AAAI. 2023
+
+1. **On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark**
 
    *Karthik Valmeekam, S. Sreedharan, Matthew Marquez, Alberto Olmo Hernandez, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2302.06706)], Preprint. 2023.2
+
+1. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**
+
+   *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su.* [[abs](https://arxiv.org/abs/2212.04088)], [[code](https://dki-lab.github.io/LLM-Planner/)], ICCV. 2023
+
+1. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
+
+   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* [[abs](https://arxiv.org/abs/2302.01560)], [[code](https://github.com/CraftJarvis/MC-Planner)], Prepint. 2023
 
 1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
    *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)], ACL. 2023.5
+
+1. **Multimodal Procedural Planning via Dual Text-Image Prompting**
+
+   *Yujie Lu, Pan Lu, Zhiyu Chen, Wanrong Zhu, Xin Eric Wang, William Yang Wang.* [[abs](https://arxiv.org/abs/2305.01795)], [[code](https://github.com/YujieLu10/TIP)], Preprint. 2023.5
 
 1. **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**
 
