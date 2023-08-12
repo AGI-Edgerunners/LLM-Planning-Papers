@@ -40,7 +40,9 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 
    *Shibo Hao, Yilan Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, D. Wang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.14992)], [[code](https://github.com/SimengSun/pearl)], Preprint. 2023.5
 
+1. **Understanding the Capabilities of Large Language Models for Automated Planning**
 
+   *Vishal Pallagani, Bharath Muppasani, K. Murugesan, F. Rossi, Biplav Srivastava, L. Horesh, F. Fabiano, Andrea Loreggia.* [[abs](https://arxiv.org/abs/2305.16151)], Preprint. 2023.5
 
 
 
