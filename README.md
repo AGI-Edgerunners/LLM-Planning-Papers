@@ -12,6 +12,10 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 
 ## 🌄 Papers
 
+1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
+
+   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)] ICML. 2022.3
+
 1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
    *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)] ACL. 2023.5
