@@ -5,3 +5,13 @@
 Must-read Papers on Large Language Model (LLMs) Planning.
 
 ---
+
+## 🔔 News
+
+- **2023-08-12 We create this paper list on *LLM Planning* .**
+
+## 🌄 Papers
+
+1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
+
+   *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)] ACL. 2023.5
