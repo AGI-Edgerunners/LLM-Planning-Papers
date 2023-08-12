@@ -14,27 +14,27 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
-   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)] ICML. 2022.3
+   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)], ICML. 2022.3
 
 1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
-   *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)] ACL. 2023.5
+   *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)], ACL. 2023.5
 
 1. **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**
 
-   *Bo Liu, Yuqian Jiang, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone.* [[abs](https://arxiv.org/abs/2304.11477)], [[code](https://github.com/Cranial-XIX/llm-pddl.git)] Preprint. 2023.5
+   *Bo Liu, Yuqian Jiang, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone.* [[abs](https://arxiv.org/abs/2304.11477)], [[code](https://github.com/Cranial-XIX/llm-pddl.git)], Preprint. 2023.5
 
 1. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**
 
-   *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)], [[code](https://github.com/ysymyth/tree-of-thought-llm)] Preprint. 2023.5
+   *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)], [[code](https://github.com/ysymyth/tree-of-thought-llm)], Preprint. 2023.5
 
 1. **PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents**
 
-   *Simeng Sun, Yang Liu, Shuohang Wang, Chenguang Zhu, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2305.14564)], [[code](https://github.com/SimengSun/pearl)] Preprint. 2023.5
+   *Simeng Sun, Yang Liu, Shuohang Wang, Chenguang Zhu, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2305.14564)], [[code](https://github.com/SimengSun/pearl)], Preprint. 2023.5
 
 1. **Reasoning with Language Model is Planning with World Model**
 
-   *Shibo Hao, Yilan Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, D. Wang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.14992)], [[code](https://github.com/SimengSun/pearl)] Preprint. 2023.5
+   *Shibo Hao, Yilan Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, D. Wang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.14992)], [[code](https://github.com/SimengSun/pearl)], Preprint. 2023.5
 
 
 
