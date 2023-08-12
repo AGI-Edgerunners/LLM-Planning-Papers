@@ -15,3 +15,7 @@ Must-read Papers on Large Language Model (LLMs) Planning.
 1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
    *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)] ACL. 2023.5
+
+1. **PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents**
+
+   *Simeng Sun, Yang Liu, Shuohang Wang, Chenguang Zhu, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2305.14564)], [[code](https://github.com/SimengSun/pearl)] preprint. 2023.5
