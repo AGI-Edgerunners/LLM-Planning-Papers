@@ -10,7 +10,7 @@ Must-read Papers on the Planning ability of Large Language Models (LLMs).
 
 - **2023-08-12 We create this paper list on *LLM Planning* .**
 
-## 🌄 Papers
+## 🗞️ Papers
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
