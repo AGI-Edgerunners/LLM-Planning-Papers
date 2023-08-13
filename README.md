@@ -6,7 +6,7 @@ Must-read Papers on the Planning ability of Large Language Models (LLMs).
 
 ---
 
-## 🔔 News
+## 📰 News
 
 - **2023-08-12 We create this paper list on *LLM Planning* .**
 
