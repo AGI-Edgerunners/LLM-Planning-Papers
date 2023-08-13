@@ -16,6 +16,10 @@ Must-read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch.* [[abs](https://arxiv.org/abs/2201.07207)], [[code](https://huangwl18.github.io/language-planner)], ICML. 2022
 
+1. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**
+
+   *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi.* [[abs](https://arxiv.org/abs/2205.10625)], ICLR. 2023
+
 1. **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change**
 
    *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2206.10498)], Preprint. 2022.6
