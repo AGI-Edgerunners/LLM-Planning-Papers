@@ -80,6 +80,9 @@ Must-read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu.* [[abs](https://arxiv.org/abs/2308.00352)], [[code](https://github.com/geekan/metagpt)], Preprint. 2023.8
 
+1. **Dynamic Planning with a LLM**
+
+   *Gautier Dagan, Frank Keller, Alex Lascarides.* [[abs](https://arxiv.org/abs/2308.06391)], Preprint. 2023.8
 
 
 
