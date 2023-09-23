@@ -84,6 +84,10 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Gautier Dagan, Frank Keller, Alex Lascarides.* [[abs](https://arxiv.org/abs/2308.06391)], Preprint. 2023.8
 
+1. **TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents**
+
+   *Jingqing Ruan, Yihong Chen, Bin Zhang, Zhiwei Xu, Tianpeng Bao, Guoqing Du, Shiwei Shi, Hangyu Mao, Xingyu Zeng, Rui Zhao.* [[abs](https://arxiv.org/abs/2308.03427)], Preprint. 2023.8
+
 
 
 
