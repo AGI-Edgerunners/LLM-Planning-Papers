@@ -88,7 +88,9 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Jingqing Ruan, Yihong Chen, Bin Zhang, Zhiwei Xu, Tianpeng Bao, Guoqing Du, Shiwei Shi, Hangyu Mao, Xingyu Zeng, Rui Zhao.* [[abs](https://arxiv.org/abs/2308.03427)], Preprint. 2023.8
 
+1. **CodePlan: Repository-level Coding using LLMs and Planning**
 
+    *Ramakrishna Bairi , Atharv Sonwane , Aditya Kanade , Vageesh D C , Arun Iyer , Suresh Parthasarathy , Sriram Rajamani , B. Ashok , Shashank Shet.* [[abs](https://arxiv.org/abs/2309.12499)], Preprint. 2023.9
 
 
 
