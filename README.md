@@ -92,6 +92,18 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
     *Ramakrishna Bairi , Atharv Sonwane , Aditya Kanade , Vageesh D C , Arun Iyer , Suresh Parthasarathy , Sriram Rajamani , B. Ashok , Shashank Shet.* [[abs](https://arxiv.org/abs/2309.12499)], Preprint. 2023.9
 
+1. **Compositional Foundation Models for Hierarchical Planning**
+
+    *Anurag Ajay , Seungwook Han , Yilun Du , Shaung Li , Abhi Gupta , Tommi Jaakkola , Josh Tenenbaum , Leslie Kaelbling , Akash Srivastava , Pulkit Agrawal.* [[abs](https://arxiv.org/abs/2309.08587)], Preprint. 2023.9
+
+1. **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**
+
+    *Han Lin , Abhay Zala , Jaemin Cho , Mohit Bansal.* [[abs](https://arxiv.org/abs/2309.15091)], Preprint. 2023.9
+
+1. **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval**
+
+    *Ida Momennejad , Hosein Hasanbeig , Felipe Vieira , Hiteshi Sharma , Robert Osazuwa Ness , Nebojsa Jojic , Hamid Palangi , Jonathan Larson.* [[abs](https://arxiv.org/abs/2309.15129)], Preprint. 2023.9
+
 
 
 
