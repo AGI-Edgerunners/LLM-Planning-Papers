@@ -76,6 +76,10 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang.* [[abs](https://arxiv.org/abs/2305.16653)], [[code](https://github.com/haotiansun14/AdaPlanner)], Preprint. 2023.5
 
+1. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**
+
+   *Izzeddin Gur , Hiroki Furuta , Austin Huang , Mustafa Safdari , Yutaka Matsuo , Douglas Eck , Aleksandra Faust.* [[abs](https://arxiv.org/abs/2307.12856)], Preprint. 2023.7
+
 1. **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
 
    *Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu.* [[abs](https://arxiv.org/abs/2308.00352)], [[code](https://github.com/geekan/metagpt)], Preprint. 2023.8
