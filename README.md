@@ -116,6 +116,23 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
     *Mohamed Aghzal, Erion Plaku, Ziyu Yao.* [[abs](https://arxiv.org/abs/2310.03249)], Preprint 2023.10
 
+1. **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**
+
+    *Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, Qiguang Chen, Bin Wang, Yu Qiao, Ping Luo.* [[abs](https://arxiv.org/abs/2310.08582)], NeurIPS 2023.
+
+1. **Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena**
+
+    *Jiangjie Chen, Siyu Yuan, Rong Ye, Bodhisattwa Prasad Majumder, Kyle Richardson.* [[abs](https://arxiv.org/abs/2310.05746)], Preprint 2023.9
+
+1. **Guiding Language Model Reasoning with Planning Tokens**
+
+    *Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni.* [[abs](https://arxiv.org/abs/2310.05707)], Preprint 2023.9.
+
+1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**
+
+    *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* [[abs](https://arxiv.org/abs/2310.04406)], Preprint 2023.10
+
+
 
 
 
