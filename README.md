@@ -149,5 +149,10 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
     *Abhay Zala, Han Lin, Jaemin Cho, Mohit Bansal.* [[abs](https://arxiv.org/abs/2310.12128)], Preprint 2023.10
 
 
+## :star: Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Planning-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Planning-Papers&Date)
+
+
 
 
