@@ -126,13 +126,15 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
 1. **Guiding Language Model Reasoning with Planning Tokens**
 
-    *Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni.* [[abs](https://arxiv.org/abs/2310.05707)], Preprint 2023.9.
+    *Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni.* [[abs](https://arxiv.org/abs/2310.05707)], Preprint 2023.9
 
 1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**
 
     *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* [[abs](https://arxiv.org/abs/2310.04406)], Preprint 2023.10
 
+1. **DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**
 
+    *Abhay Zala, Han Lin, Jaemin Cho, Mohit Bansal.* [[abs](https://arxiv.org/abs/2310.12128)], Preprint 2023.10
 
 
 
