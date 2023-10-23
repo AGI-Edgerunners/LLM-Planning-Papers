@@ -30,7 +30,7 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
 1. **On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark**
 
-   *Karthik Valmeekam, S. Sreedharan, Matthew Marquez, Alberto Olmo Hernandez, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2302.06706)], NeurIPS 2023.
+   *Karthik Valmeekam, S. Sreedharan, Matthew Marquez, Alberto Olmo Hernandez, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2302.06706)], NeurIPS 2023
 
 1. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**
 
@@ -38,7 +38,7 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
 1. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
 
-   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* [[abs](https://arxiv.org/abs/2302.01560)], [[code](https://github.com/CraftJarvis/MC-Planner)], NeurIPS 2023.
+   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* [[abs](https://arxiv.org/abs/2302.01560)], [[code](https://github.com/CraftJarvis/MC-Planner)], NeurIPS 2023
 
 1. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
@@ -102,7 +102,7 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
 1. **Compositional Foundation Models for Hierarchical Planning**
 
-    *Anurag Ajay , Seungwook Han , Yilun Du , Shaung Li , Abhi Gupta , Tommi Jaakkola , Josh Tenenbaum , Leslie Kaelbling , Akash Srivastava , Pulkit Agrawal.* [[abs](https://arxiv.org/abs/2309.08587)], NeurIPS 2023.
+    *Anurag Ajay , Seungwook Han , Yilun Du , Shaung Li , Abhi Gupta , Tommi Jaakkola , Josh Tenenbaum , Leslie Kaelbling , Akash Srivastava , Pulkit Agrawal.* [[abs](https://arxiv.org/abs/2309.08587)], NeurIPS 2023
 
 1. **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**
 
@@ -131,6 +131,18 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**
 
     *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* [[abs](https://arxiv.org/abs/2310.04406)], Preprint 2023.10
+
+1. **Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**
+
+    *Dhruv Shah, Michael Equi, Blazej Osinski, Fei Xia, Brian Ichter, Sergey Levine.* [[abs](https://arxiv.org/abs/2310.10103)], Preprint 2023.10
+
+1. **Interactive Task Planning with Language Models**
+
+    *Boyi Li, Philipp Wu, Pieter Abbeel, Jitendra Malik.* [[abs](https://arxiv.org/abs/2310.10645)], Preprint 2023.10
+
+1. **BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology**
+
+    *Odhran O'Donoghue, Aleksandar Shtedritski, John Ginger, Ralph Abboud, Ali Essa Ghareeb, Justin Booth, Samuel G Rodriques.* [[abs](https://arxiv.org/abs/2310.10632)], EMNLP 2023
 
 1. **DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**
 
