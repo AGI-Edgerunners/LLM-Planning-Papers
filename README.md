@@ -152,6 +152,14 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
     *Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric P. Xing, Zhiting Hu.* [[abs](https://arxiv.org/abs/2310.16427)], Preprint 2023.10
 
+1. **Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents**
+
+   *ICLR 2024 Conference Submission7048 Authors.* [[openreview](https://openreview.net/forum?id=MCNqgUFTHI)], 2023
+
+1. **PlaSma: Procedural Knowledge Models for Language-based Planning and Re-Planning**
+
+   *ICLR 2024 Conference Submission8605 Authors.* [[openreview](https://openreview.net/forum?id=dFcXJgnrGB)], 2023
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Planning-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Planning-Papers&Date)
