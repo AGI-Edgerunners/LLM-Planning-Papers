@@ -20,10 +20,6 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi.* [[abs](https://arxiv.org/abs/2205.10625)], ICLR 2023
 
-1. **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change**
-
-   *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[abs](https://arxiv.org/abs/2206.10498)], Preprint 2022.6
-
 1. **On Grounded Planning for Embodied Tasks with Language Models**
 
    *Bill Yuchen Lin, Chengsong Huang, Qian Liu, Wenda Gu, Sam Sommerer, Xiang Ren.* [[abs](https://arxiv.org/abs/2209.00465)], [[code](https://github.com/INK-USC/G-PlanET)], AAAI 2023
