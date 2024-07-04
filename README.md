@@ -156,6 +156,10 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *ICLR 2024 Conference Submission8605 Authors.* [[openreview](https://openreview.net/forum?id=dFcXJgnrGB)], 2023
 
+1. **Agent Planning with World Knowledge Model**
+
+   *Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, Shumin Deng, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.* [[abs](https://arxiv.org/abs/2405.14205)], 2024.05
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Planning-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Planning-Papers&Date)
