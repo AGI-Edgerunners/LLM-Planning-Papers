@@ -150,11 +150,11 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
 1. **Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents**
 
-   *ICLR 2024 Conference Submission7048 Authors.* [[openreview](https://openreview.net/forum?id=MCNqgUFTHI)], 2023
+   *Yang Deng, Wenxuan Zhang, Wai Lam, See-Kiong Ng, Tat-Seng Chua.* [[openreview](https://openreview.net/forum?id=MCNqgUFTHI)], ICLR 2024
 
 1. **PlaSma: Procedural Knowledge Models for Language-based Planning and Re-Planning**
 
-   *ICLR 2024 Conference Submission8605 Authors.* [[openreview](https://openreview.net/forum?id=dFcXJgnrGB)], 2023
+   *Faeze Brahman, Chandra Bhagavatula, Valentina Pyatkin, Jena D. Hwang, Xiang Lorraine Li, Hirona Jacqueline Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi.* [[openreview](https://openreview.net/forum?id=dFcXJgnrGB)], ICLR 2024
 
 1. **Agent Planning with World Knowledge Model**
 
